@@ -9,6 +9,5 @@
 
 extern uint32_t MAIN_COLOR;
 
-1618
 
 #endif
